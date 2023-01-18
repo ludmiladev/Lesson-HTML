@@ -1,0 +1,29 @@
+body {
+   background-color: peachpuff;
+   text-align: center;
+
+}
+.wrapper {
+   max-width: 1200px;
+   margin: 0 auto;
+}
+h1, h2 {
+text-align: center;
+   color: rgb(14, 101, 122);
+   background-color: rgb(16, 228, 153);
+}
+h1 {
+   font-size: 45px;
+}
+p {
+   color:#563124;
+   background-color:#cff3f3;
+}
+img{
+   margin: 0 auto;
+   width: 300px;
+}
+ul {
+   text-align: left;
+   background-color: rgb(124, 162, 217);
+}
